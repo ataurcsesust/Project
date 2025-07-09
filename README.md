@@ -5,7 +5,6 @@
 
 
 ### Key Features:
-
 1. Display Periodic Table Layout
 A visually formatted periodic table structure is printed on the console and written to a file, showcasing the arrangement of elements.
 
@@ -34,6 +33,7 @@ View all elements within a specified mass range, useful for experimental or comp
 All console outputs are also written to a file (periodic_table.txt) for records and future reference.
 
 
+
 ### Technologies Used:
 1. Programming Language: C++
 2. File Handling: ofstream is used to write outputs to a file.
@@ -46,6 +46,7 @@ All console outputs are also written to a file (periodic_table.txt) for records 
 3. Learn data representation and searching techniques.
 4. Improve skills in designing user-interactive console applications.
 5. Reinforce knowledge of the periodic table and chemical element classification.
+
 
 ### Output File:
 All user operations and displayed data are also stored in periodic_table.txt, making it useful for analysis or documentation.
